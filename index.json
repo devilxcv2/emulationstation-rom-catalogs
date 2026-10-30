@@ -1,0 +1,1231 @@
+{
+  "schema_version": 1,
+  "name": "EmulationStation ROM Catalogs",
+  "updated_at": "2026-10-30T09:40:50+00:00",
+  "catalogs": [
+    {
+      "system": "3do",
+      "title": "Panasonic 3DO",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/3do.jsonl",
+      "version": "3df698e7d76830b1",
+      "game_count": 665,
+      "download_bytes": 209985,
+      "sha256": "3df698e7d76830b11c594c74ea1180da2ccbeafa7c4733d879018fe6680dcdef"
+    },
+    {
+      "system": "adam",
+      "title": "Adam",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/adam.jsonl",
+      "version": "b4a114d09675a182",
+      "game_count": 83,
+      "download_bytes": 37765,
+      "sha256": "b4a114d09675a1820e0c6af29fc4000e92d25e3070de3da858c613d2e11ea867"
+    },
+    {
+      "system": "advision",
+      "title": "Advision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/advision.jsonl",
+      "version": "bd32198c7318eaeb",
+      "game_count": 4,
+      "download_bytes": 983,
+      "sha256": "bd32198c7318eaeb12f1c9a787b1f10ffcfafda7ac2f1dd09be07a6264f26211"
+    },
+    {
+      "system": "amiga1200",
+      "title": "Amiga1200",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/amiga1200.jsonl",
+      "version": "a62eee7190f3e4fd",
+      "game_count": 151,
+      "download_bytes": 44756,
+      "sha256": "a62eee7190f3e4fd325b87cb968107cb5b4996618ff6b246420908ca1be21364"
+    },
+    {
+      "system": "amiga500",
+      "title": "Amiga500",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/amiga500.jsonl",
+      "version": "244e36bc72c29a9b",
+      "game_count": 2994,
+      "download_bytes": 853563,
+      "sha256": "244e36bc72c29a9b35003a6b3cadfca195d3aeb21ce45f2ca8a920f295cbbb00"
+    },
+    {
+      "system": "amigacd32",
+      "title": "Amigacd32",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/amigacd32.jsonl",
+      "version": "3e75b19ed8f8328d",
+      "game_count": 202,
+      "download_bytes": 58255,
+      "sha256": "3e75b19ed8f8328db581b7c59ce3c62925e885bfe55d642bdbeaba9f623b5c01"
+    },
+    {
+      "system": "amigacdtv",
+      "title": "Amigacdtv",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/amigacdtv.jsonl",
+      "version": "1edbb46998268992",
+      "game_count": 56,
+      "download_bytes": 16516,
+      "sha256": "1edbb469982689925cff58172af9768de4408da599a82387378f414584fa388e"
+    },
+    {
+      "system": "amstradcpc",
+      "title": "Amstradcpc",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/amstradcpc.jsonl",
+      "version": "ec0a6db7c7bcdf2a",
+      "game_count": 4292,
+      "download_bytes": 1424539,
+      "sha256": "ec0a6db7c7bcdf2a7e5dc8fda00d6a47d9629ea6162033cde9ff2dc5ad754da9"
+    },
+    {
+      "system": "apfm1000",
+      "title": "Apfm1000",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/apfm1000.jsonl",
+      "version": "010e26fbfca98ea3",
+      "game_count": 16,
+      "download_bytes": 3984,
+      "sha256": "010e26fbfca98ea3b360376aa9802dbd421de2a33b2a5bf348ba6fed7d39d304"
+    },
+    {
+      "system": "apple2",
+      "title": "Apple2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/apple2.jsonl",
+      "version": "40c6c9f3195bbe98",
+      "game_count": 865,
+      "download_bytes": 354060,
+      "sha256": "40c6c9f3195bbe98a73f9cac50208b05178ea829138164ade58f17c755c5eb19"
+    },
+    {
+      "system": "arcade",
+      "title": "Arcade",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/arcade.jsonl",
+      "version": "f2a089643d2e3c73",
+      "game_count": 7719,
+      "download_bytes": 1611600,
+      "sha256": "f2a089643d2e3c730cda815fd61ba19f48539380dbb256e84222b755391d5089"
+    },
+    {
+      "system": "arcadia",
+      "title": "Arcadia",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/arcadia.jsonl",
+      "version": "8e7941376af3c82f",
+      "game_count": 48,
+      "download_bytes": 16504,
+      "sha256": "8e7941376af3c82fd1bdfc21ed9f4661b1ab541045c6bf1351298fbe538617b1"
+    },
+    {
+      "system": "arduboy",
+      "title": "Arduboy",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/arduboy.jsonl",
+      "version": "d2dd6e97ce0262ce",
+      "game_count": 531,
+      "download_bytes": 156333,
+      "sha256": "d2dd6e97ce0262ce82480275d83ce119940c018e85420bc24bc4fc478d4db300"
+    },
+    {
+      "system": "astrocde",
+      "title": "Astrocde",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/astrocde.jsonl",
+      "version": "768c250c1e89a1bb",
+      "game_count": 75,
+      "download_bytes": 18210,
+      "sha256": "768c250c1e89a1bbbe30a1d75624632223e292120b6d2d94f1b1f2b563412693"
+    },
+    {
+      "system": "atari2600",
+      "title": "Atari2600",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atari2600.jsonl",
+      "version": "99483252a0f6e8b3",
+      "game_count": 885,
+      "download_bytes": 228781,
+      "sha256": "99483252a0f6e8b34fb72667ff88f81bd81a600425b8fb1ee4b4eca4663dbe38"
+    },
+    {
+      "system": "atari5200",
+      "title": "Atari5200",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atari5200.jsonl",
+      "version": "22541404a3d39f15",
+      "game_count": 181,
+      "download_bytes": 49341,
+      "sha256": "22541404a3d39f1519eac06911722ce59da305a9130253c856a4aa83fd7bec9b"
+    },
+    {
+      "system": "atari7800",
+      "title": "Atari7800",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atari7800.jsonl",
+      "version": "543592f632b23f34",
+      "game_count": 823,
+      "download_bytes": 247664,
+      "sha256": "543592f632b23f344c427907b974c8cd1b58ee53b1ed66e0e7af6067f1dda49e"
+    },
+    {
+      "system": "atari800",
+      "title": "Atari800",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atari800.jsonl",
+      "version": "dbb8e0e6e450840f",
+      "game_count": 3072,
+      "download_bytes": 967581,
+      "sha256": "dbb8e0e6e450840f3c5a23be1049c8f50c19102bccb0231c09103faad09d8686"
+    },
+    {
+      "system": "atarijaguar",
+      "title": "Atarijaguar",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atarijaguar.jsonl",
+      "version": "6e91fb744b901054",
+      "game_count": 277,
+      "download_bytes": 98873,
+      "sha256": "6e91fb744b901054b52d00886b75fb7b967b9786dfae04d5b8b9b4b22e2c9257"
+    },
+    {
+      "system": "atarijaguarcd",
+      "title": "Atarijaguarcd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atarijaguarcd.jsonl",
+      "version": "4a92a43fb8d7b134",
+      "game_count": 24,
+      "download_bytes": 7040,
+      "sha256": "4a92a43fb8d7b1347e6780d56404b17221959cf4f87efc12a58c906e31a8d818"
+    },
+    {
+      "system": "atarilynx",
+      "title": "Atarilynx",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atarilynx.jsonl",
+      "version": "6fc0dde74881dcbe",
+      "game_count": 395,
+      "download_bytes": 143684,
+      "sha256": "6fc0dde74881dcbecd17f6e72c63fe6858ff6d5efeec07ae04bad688ad1034e1"
+    },
+    {
+      "system": "atarist",
+      "title": "Atarist",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atarist.jsonl",
+      "version": "8d485d49fb3114ce",
+      "game_count": 10777,
+      "download_bytes": 3974949,
+      "sha256": "8d485d49fb3114ce8b429f1efbbb5be69b2d82b17a1eddf03b4082d25d6eaf2a"
+    },
+    {
+      "system": "atomiswave",
+      "title": "Atomiswave",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/atomiswave.jsonl",
+      "version": "e9ad959544311960",
+      "game_count": 34,
+      "download_bytes": 5974,
+      "sha256": "e9ad9595443119601bd8f4c1c10880eb248faec1106697955aa3b19b17954543"
+    },
+    {
+      "system": "bbcmicro",
+      "title": "Bbcmicro",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/bbcmicro.jsonl",
+      "version": "37338a7593d23f46",
+      "game_count": 2285,
+      "download_bytes": 789833,
+      "sha256": "37338a7593d23f46c732314d7ce0874d9730dfb16fe6f3ca21f4b7b67e7ce37f"
+    },
+    {
+      "system": "c20",
+      "title": "C20",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/c20.jsonl",
+      "version": "635c4f7c3a3259a5",
+      "game_count": 287,
+      "download_bytes": 88835,
+      "sha256": "635c4f7c3a3259a5b7e813109351cfe1f5d5e397b62e512b558888e9a6864268"
+    },
+    {
+      "system": "c64",
+      "title": "C64",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/c64.jsonl",
+      "version": "a2aaab5e54b118b2",
+      "game_count": 8165,
+      "download_bytes": 2067535,
+      "sha256": "a2aaab5e54b118b2b6f669952d99f7a7be90add3be29250aa3dc7d1636a6146c"
+    },
+    {
+      "system": "casloopy",
+      "title": "Casloopy",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/casloopy.jsonl",
+      "version": "d0ce713f05b2c3c8",
+      "game_count": 10,
+      "download_bytes": 2766,
+      "sha256": "d0ce713f05b2c3c8ff4378d3a5c6b8770e362bbb1ddea3f03423a3455571f541"
+    },
+    {
+      "system": "cave",
+      "title": "Cave",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cave.jsonl",
+      "version": "b79fb6df07fc2555",
+      "game_count": 23,
+      "download_bytes": 4048,
+      "sha256": "b79fb6df07fc25553c2a401635b09ba35aa5672a08cb26bdc86f1ea500c6d5f8"
+    },
+    {
+      "system": "cdi",
+      "title": "Cdi",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cdi.jsonl",
+      "version": "7d90638a707093f9",
+      "game_count": 2340,
+      "download_bytes": 742551,
+      "sha256": "7d90638a707093f9861a1eb1e1a5ec4330faab265630e580cae8daf14ef8f56e"
+    },
+    {
+      "system": "channelf",
+      "title": "Channelf",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/channelf.jsonl",
+      "version": "e84de279c887d37a",
+      "game_count": 78,
+      "download_bytes": 24314,
+      "sha256": "e84de279c887d37ac923bab7ae674238d26edeacce2d5cab68ecd56ed5bd0907"
+    },
+    {
+      "system": "colecovision",
+      "title": "Colecovision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/colecovision.jsonl",
+      "version": "962d0d8c69818c28",
+      "game_count": 351,
+      "download_bytes": 103415,
+      "sha256": "962d0d8c69818c284fbb1c63c565969654a28f73332f693bea12e9821d898d36"
+    },
+    {
+      "system": "cplus4",
+      "title": "Cplus4",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cplus4.jsonl",
+      "version": "4508112541be6cdd",
+      "game_count": 1500,
+      "download_bytes": 746303,
+      "sha256": "4508112541be6cdd1e55fac5e6b6144bc749880738b03765138e81cfbcc7c7c6"
+    },
+    {
+      "system": "cps",
+      "title": "Cps",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cps.jsonl",
+      "version": "e97823ae4988e1f2",
+      "game_count": 60,
+      "download_bytes": 11008,
+      "sha256": "e97823ae4988e1f2fe63f75fa94363ab17979595b58e57c3f8b285d3ad866c8c"
+    },
+    {
+      "system": "cps1",
+      "title": "Cps1",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cps1.jsonl",
+      "version": "26c75f7042cbd156",
+      "game_count": 38,
+      "download_bytes": 6586,
+      "sha256": "26c75f7042cbd15696fc1caafd84106f7700cf6b0efb5b14f1b62f5d8164a360"
+    },
+    {
+      "system": "cps2",
+      "title": "Cps2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cps2.jsonl",
+      "version": "cad9fcfec9b43230",
+      "game_count": 41,
+      "download_bytes": 6916,
+      "sha256": "cad9fcfec9b4323061262c299186ccf45c2fd84f105a5bf807b0da15e363bea6"
+    },
+    {
+      "system": "cps3",
+      "title": "Cps3",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/cps3.jsonl",
+      "version": "b56db04848cbb07f",
+      "game_count": 6,
+      "download_bytes": 1035,
+      "sha256": "b56db04848cbb07f0a007aea3b657ddcccb3a1df8893605967d1cd9dd4cfc7b1"
+    },
+    {
+      "system": "crvision",
+      "title": "Crvision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/crvision.jsonl",
+      "version": "4bcd058ca270ec90",
+      "game_count": 35,
+      "download_bytes": 10217,
+      "sha256": "4bcd058ca270ec9049c086a910ae0d4881ff7bd66297c0d3745250346c6d760e"
+    },
+    {
+      "system": "dos",
+      "title": "Dos",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/dos.jsonl",
+      "version": "a68376b6d487902a",
+      "game_count": 7595,
+      "download_bytes": 3412543,
+      "sha256": "a68376b6d487902a31c924bda9daf2492d17146158c7056107fb7d2d9d5f61fb"
+    },
+    {
+      "system": "dreamcast",
+      "title": "Dreamcast",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/dreamcast.jsonl",
+      "version": "b726c2065a123cca",
+      "game_count": 1383,
+      "download_bytes": 455018,
+      "sha256": "b726c2065a123cca8c705ae487fb040b51c62b07aab374503982eb0b6869c3e8"
+    },
+    {
+      "system": "dsi",
+      "title": "Dsi",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/dsi.jsonl",
+      "version": "bdf7882faeb468a1",
+      "game_count": 53,
+      "download_bytes": 20289,
+      "sha256": "bdf7882faeb468a14afa41f4ac4ac1db76461dfd6984900182ba5e3a4b4c0a3b"
+    },
+    {
+      "system": "easyrpg",
+      "title": "Easyrpg",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/easyrpg.jsonl",
+      "version": "54258f8771626804",
+      "game_count": 219,
+      "download_bytes": 41219,
+      "sha256": "54258f877162680467d782e0e75f096f322116064261d5ddb59236e67c8616d2"
+    },
+    {
+      "system": "fbneo",
+      "title": "FinalBurn Neo",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/fbneo.jsonl",
+      "version": "97ee3659ada4918a",
+      "game_count": 896,
+      "download_bytes": 220257,
+      "sha256": "97ee3659ada4918aa7867d204934f3e67269cf32c18190b43136d235323db499"
+    },
+    {
+      "system": "fds",
+      "title": "Fds",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/fds.jsonl",
+      "version": "1f0ad4e0ff32df4d",
+      "game_count": 395,
+      "download_bytes": 141235,
+      "sha256": "1f0ad4e0ff32df4da139e9f7a41a5dc10fcef502f5d1b262f66559d0d8af63f0"
+    },
+    {
+      "system": "flash",
+      "title": "Flash",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/flash.jsonl",
+      "version": "c3f738bc1d371dd4",
+      "game_count": 3633,
+      "download_bytes": 732384,
+      "sha256": "c3f738bc1d371dd4052c57202d2ecbcde7a2bccd8e10d6ab1a0d75856824c363"
+    },
+    {
+      "system": "fm7",
+      "title": "Fm7",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/fm7.jsonl",
+      "version": "8c264b8c262e3ab4",
+      "game_count": 304,
+      "download_bytes": 89895,
+      "sha256": "8c264b8c262e3ab497b76ae444d3b5df6cd34a7cb2abaea6c04d40b5017e1ae0"
+    },
+    {
+      "system": "fmtowns",
+      "title": "Fmtowns",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/fmtowns.jsonl",
+      "version": "f2b0a619bc1ae98d",
+      "game_count": 272,
+      "download_bytes": 82680,
+      "sha256": "f2b0a619bc1ae98dbb36a24fc60f53494a5b61188ec40adc7de675c508090afd"
+    },
+    {
+      "system": "gamate",
+      "title": "Gamate",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gamate.jsonl",
+      "version": "0d51a6a1d3ecb2d2",
+      "game_count": 61,
+      "download_bytes": 14533,
+      "sha256": "0d51a6a1d3ecb2d2d4de3744f8f49c33a52d461021e363d3e132ee9dfd8a0e41"
+    },
+    {
+      "system": "gameandwatch",
+      "title": "Gameandwatch",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gameandwatch.jsonl",
+      "version": "7be5aefb3bd25ebb",
+      "game_count": 59,
+      "download_bytes": 16122,
+      "sha256": "7be5aefb3bd25ebb3eed3f90dbc09cc87e9e3cbe3f291b1e4979489063f4bf9c"
+    },
+    {
+      "system": "gamecube",
+      "title": "Gamecube",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gamecube.jsonl",
+      "version": "9a7e792d96c07588",
+      "game_count": 4331,
+      "download_bytes": 1502759,
+      "sha256": "9a7e792d96c075882499ff66b6676dc2b31ba9e01fd5d94ddb059459f7d6caf5"
+    },
+    {
+      "system": "gamegear",
+      "title": "Game Gear",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gamegear.jsonl",
+      "version": "46efecb79027f0ff",
+      "game_count": 719,
+      "download_bytes": 214841,
+      "sha256": "46efecb79027f0ffa085284947b717570684ac44c1db6050d3455f4e88599a53"
+    },
+    {
+      "system": "gamepock",
+      "title": "Gamepock",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gamepock.jsonl",
+      "version": "07e6428781b3c2bf",
+      "game_count": 5,
+      "download_bytes": 1245,
+      "sha256": "07e6428781b3c2bfe1e0ef0cf9833ff02c32eba0a279a4882888db293b0db657"
+    },
+    {
+      "system": "gb",
+      "title": "Game Boy",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gb.jsonl",
+      "version": "079b7ddce0d5416b",
+      "game_count": 2654,
+      "download_bytes": 844781,
+      "sha256": "079b7ddce0d5416bc5cf6c41a5ad2440fd9f71c181facb1a3a992d0b7added62"
+    },
+    {
+      "system": "gba",
+      "title": "Game Boy Advance",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gba.jsonl",
+      "version": "05e714f2f7a621f5",
+      "game_count": 3308,
+      "download_bytes": 1108549,
+      "sha256": "05e714f2f7a621f51295a2f13e45cd7ea078c0301ed700d799c819f176ae5376"
+    },
+    {
+      "system": "gbc",
+      "title": "Game Boy Color",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gbc.jsonl",
+      "version": "e7af8e51a001ed4f",
+      "game_count": 2207,
+      "download_bytes": 806586,
+      "sha256": "e7af8e51a001ed4fa012e20e2c381251d1596eed7c30a6502ee322d9407b7ea2"
+    },
+    {
+      "system": "gmaster",
+      "title": "Gmaster",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gmaster.jsonl",
+      "version": "8012ef3be050a94e",
+      "game_count": 18,
+      "download_bytes": 4216,
+      "sha256": "8012ef3be050a94e7274449c64a7d8a053584e34928d5b70d571a2eab0cced69"
+    },
+    {
+      "system": "gp32",
+      "title": "Gp32",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gp32.jsonl",
+      "version": "be176e24aedd0da3",
+      "game_count": 28,
+      "download_bytes": 7391,
+      "sha256": "be176e24aedd0da3cfcd9f627f921428f10149cda20c491638e6f8047c243356"
+    },
+    {
+      "system": "gx4000",
+      "title": "Gx4000",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/gx4000.jsonl",
+      "version": "5e5c08957b7bfaea",
+      "game_count": 26,
+      "download_bytes": 10245,
+      "sha256": "5e5c08957b7bfaea5486d82efd35ea98343be92a527fef34864dbecb1e9ec5af"
+    },
+    {
+      "system": "intellivision",
+      "title": "Intellivision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/intellivision.jsonl",
+      "version": "100ea53ade61073d",
+      "game_count": 222,
+      "download_bytes": 65099,
+      "sha256": "100ea53ade61073d2cf527b7cab2fa6a3fdac1f6fae6817e41063b27f955d71f"
+    },
+    {
+      "system": "jaguar",
+      "title": "Jaguar",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/jaguar.jsonl",
+      "version": "6e91fb744b901054",
+      "game_count": 277,
+      "download_bytes": 98873,
+      "sha256": "6e91fb744b901054b52d00886b75fb7b967b9786dfae04d5b8b9b4b22e2c9257"
+    },
+    {
+      "system": "jaguarcd",
+      "title": "Jaguarcd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/jaguarcd.jsonl",
+      "version": "4a92a43fb8d7b134",
+      "game_count": 24,
+      "download_bytes": 7040,
+      "sha256": "4a92a43fb8d7b1347e6780d56404b17221959cf4f87efc12a58c906e31a8d818"
+    },
+    {
+      "system": "lowresnx",
+      "title": "Lowresnx",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/lowresnx.jsonl",
+      "version": "6527e9bced2ec7ab",
+      "game_count": 964,
+      "download_bytes": 203894,
+      "sha256": "6527e9bced2ec7abfe61b35e9a127496baa74d8fb141d3d75e97a4f43e0ee9e6"
+    },
+    {
+      "system": "lutro",
+      "title": "Lutro",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/lutro.jsonl",
+      "version": "a006ae58ed091739",
+      "game_count": 9,
+      "download_bytes": 1466,
+      "sha256": "a006ae58ed0917391bf4ef79cdd02cd7cf90d460231982e5856158d58b98e117"
+    },
+    {
+      "system": "lynx",
+      "title": "Lynx",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/lynx.jsonl",
+      "version": "6fc0dde74881dcbe",
+      "game_count": 395,
+      "download_bytes": 143684,
+      "sha256": "6fc0dde74881dcbecd17f6e72c63fe6858ff6d5efeec07ae04bad688ad1034e1"
+    },
+    {
+      "system": "mame",
+      "title": "MAME",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/mame.jsonl",
+      "version": "9935d972f415416c",
+      "game_count": 20430,
+      "download_bytes": 4172210,
+      "sha256": "9935d972f415416cc1e5dbb1b6462d55673ecf5e84f60f75f318825e93412b41"
+    },
+    {
+      "system": "mastersystem",
+      "title": "Master System",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/mastersystem.jsonl",
+      "version": "49ae1c14c554a39e",
+      "game_count": 1357,
+      "download_bytes": 473663,
+      "sha256": "49ae1c14c554a39ef30cac241e150b9841638e5ac82a101ec4f3419e173dcc33"
+    },
+    {
+      "system": "megadrive-msu",
+      "title": "Megadrive Msu",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/megadrive-msu.jsonl",
+      "version": "f1f7bee20f5211f6",
+      "game_count": 61,
+      "download_bytes": 27715,
+      "sha256": "f1f7bee20f5211f6f14e6d62ce53e5fb7f32f6302a5f796c698faaacdf3d90fa"
+    },
+    {
+      "system": "megadrive",
+      "title": "Mega Drive",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/megadrive.jsonl",
+      "version": "d41126983174ce02",
+      "game_count": 3853,
+      "download_bytes": 1317389,
+      "sha256": "d41126983174ce0222360d304ef510e173d40702aa635310344e869764b873dc"
+    },
+    {
+      "system": "megaduck",
+      "title": "Megaduck",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/megaduck.jsonl",
+      "version": "af0f17cb1cb519af",
+      "game_count": 25,
+      "download_bytes": 4636,
+      "sha256": "af0f17cb1cb519afa68a0533b278452d4443c91e22d67fe9b4834d9c155311d2"
+    },
+    {
+      "system": "model2",
+      "title": "Model2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/model2.jsonl",
+      "version": "f91a0973be543cdd",
+      "game_count": 32,
+      "download_bytes": 7588,
+      "sha256": "f91a0973be543cdd084fbd6f801be869abe0649020a0aed0f721869b08fc9da0"
+    },
+    {
+      "system": "model3",
+      "title": "Model3",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/model3.jsonl",
+      "version": "c5086e6b95a1977d",
+      "game_count": 25,
+      "download_bytes": 4270,
+      "sha256": "c5086e6b95a1977dc48419458fab9ca32ca38538ed596b614da3e7a698a03ce4"
+    },
+    {
+      "system": "msx1",
+      "title": "Msx1",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/msx1.jsonl",
+      "version": "71d3a3cc2b7f3fb2",
+      "game_count": 1058,
+      "download_bytes": 280562,
+      "sha256": "71d3a3cc2b7f3fb2c728e8be8ca4f1e8c72225c59ba04ad939f6787a06e343ca"
+    },
+    {
+      "system": "msx2",
+      "title": "Msx2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/msx2.jsonl",
+      "version": "18fa9892922bfd93",
+      "game_count": 232,
+      "download_bytes": 67832,
+      "sha256": "18fa9892922bfd9375007ca56f26f8ee5a3622c14c4fe66279e6713de104df1e"
+    },
+    {
+      "system": "multivision",
+      "title": "Multivision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/multivision.jsonl",
+      "version": "afd847d7b8ea40a4",
+      "game_count": 13,
+      "download_bytes": 6410,
+      "sha256": "afd847d7b8ea40a4a103dbf6329cdaf806aae35285639d230a8576b3c276dc44"
+    },
+    {
+      "system": "n3ds",
+      "title": "N3Ds",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/n3ds.jsonl",
+      "version": "066332947c7320b5",
+      "game_count": 2166,
+      "download_bytes": 784615,
+      "sha256": "066332947c7320b538634b96aaccb756ea276d7124b4e2087ac58ea9ba4cfc76"
+    },
+    {
+      "system": "n64",
+      "title": "Nintendo 64",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/n64.jsonl",
+      "version": "20afb28922a90ff6",
+      "game_count": 1180,
+      "download_bytes": 376123,
+      "sha256": "20afb28922a90ff6d4d97e9350420c4881fae4756f4864d7d7abc35fcb9b642f"
+    },
+    {
+      "system": "n64dd",
+      "title": "N64Dd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/n64dd.jsonl",
+      "version": "36fb661be3f74a55",
+      "game_count": 0,
+      "download_bytes": 3422,
+      "sha256": "36fb661be3f74a55b9a0ebeab07c3552a9dfb0c7cc81c32ecc96519894ed6ec8"
+    },
+    {
+      "system": "naomi",
+      "title": "Naomi",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/naomi.jsonl",
+      "version": "83095aa8bf0c21d1",
+      "game_count": 76,
+      "download_bytes": 12588,
+      "sha256": "83095aa8bf0c21d1af3d9bee9ea084887b0d9f718aa96785a05ddcffac21d999"
+    },
+    {
+      "system": "naomi2",
+      "title": "Naomi2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/naomi2.jsonl",
+      "version": "b301d68119d65a7c",
+      "game_count": 13,
+      "download_bytes": 3225,
+      "sha256": "b301d68119d65a7c93afcda0edd29ca9475ac79b5787af7f96e1a96c1620c740"
+    },
+    {
+      "system": "naomigd",
+      "title": "Naomigd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/naomigd.jsonl",
+      "version": "fa3e8c5eea34e5ed",
+      "game_count": 49,
+      "download_bytes": 13730,
+      "sha256": "fa3e8c5eea34e5ed5e20a8b557c0087b90624ddf9574d09d4e2911ee01e52fa7"
+    },
+    {
+      "system": "nds",
+      "title": "Nintendo DS",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/nds.jsonl",
+      "version": "9a66c9b06b330ef8",
+      "game_count": 7136,
+      "download_bytes": 2523436,
+      "sha256": "9a66c9b06b330ef8acd0cb9f6e96b9b3748296f8ec0570ba3c127958af98315a"
+    },
+    {
+      "system": "neogeo",
+      "title": "Neogeo",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/neogeo.jsonl",
+      "version": "d17d599d306a4080",
+      "game_count": 201,
+      "download_bytes": 35301,
+      "sha256": "d17d599d306a40804e4f75372343f4405febac44ed90f65034eea062dfa6a725"
+    },
+    {
+      "system": "neogeo64",
+      "title": "Neogeo64",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/neogeo64.jsonl",
+      "version": "49b279b31a3bba87",
+      "game_count": 8,
+      "download_bytes": 1487,
+      "sha256": "49b279b31a3bba872dc6e4833326d43977f2159049468b6638b4317a90dc8906"
+    },
+    {
+      "system": "neogeocd",
+      "title": "Neogeocd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/neogeocd.jsonl",
+      "version": "270d116616237a11",
+      "game_count": 111,
+      "download_bytes": 42139,
+      "sha256": "270d116616237a1122e9b3dc7987719c0dd20f8c9ad80f00dd684cf41aa689ef"
+    },
+    {
+      "system": "nes",
+      "title": "Nintendo Entertainment System",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/nes.jsonl",
+      "version": "47a8e8236143ac6d",
+      "game_count": 8430,
+      "download_bytes": 3178675,
+      "sha256": "47a8e8236143ac6d0bee98b46f4b9e0f4f1ead375917c6e0d001e234c84c4e53"
+    },
+    {
+      "system": "ngp",
+      "title": "Ngp",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/ngp.jsonl",
+      "version": "c6d24d20eaaf3704",
+      "game_count": 10,
+      "download_bytes": 3532,
+      "sha256": "c6d24d20eaaf370454b5a70539c502f03d097bc82438fa10bf91f4f07bc00104"
+    },
+    {
+      "system": "ngpc",
+      "title": "Ngpc",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/ngpc.jsonl",
+      "version": "592504054ac0a8fd",
+      "game_count": 171,
+      "download_bytes": 54831,
+      "sha256": "592504054ac0a8fde2ebc9a256e25b701f8248abb5d08c0bc91c6b93fbe7442e"
+    },
+    {
+      "system": "o2em",
+      "title": "O2Em",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/o2em.jsonl",
+      "version": "ec7d39fda081e391",
+      "game_count": 131,
+      "download_bytes": 35241,
+      "sha256": "ec7d39fda081e39180c08437472c3837cda4d8827df49a9f6c05163e1b5ed5f2"
+    },
+    {
+      "system": "oricatmos",
+      "title": "Oricatmos",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/oricatmos.jsonl",
+      "version": "0608c2e2e88fea57",
+      "game_count": 0,
+      "download_bytes": 161810,
+      "sha256": "0608c2e2e88fea574f54f171646df617d98b9317f3667cf95f4a576431b4ddc2"
+    },
+    {
+      "system": "pc88",
+      "title": "Pc88",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pc88.jsonl",
+      "version": "df01f1439e482608",
+      "game_count": 970,
+      "download_bytes": 256972,
+      "sha256": "df01f1439e482608a9381a2f16922a5688600547afa83ff95eb350aa862ecb2d"
+    },
+    {
+      "system": "pc98",
+      "title": "Pc98",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pc98.jsonl",
+      "version": "b09408a1b7c4fda3",
+      "game_count": 72,
+      "download_bytes": 24588,
+      "sha256": "b09408a1b7c4fda3b385bc7ced107b12ed70e0118e26e8b90a69b397525d6e60"
+    },
+    {
+      "system": "pcengine",
+      "title": "Pcengine",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pcengine.jsonl",
+      "version": "6b4711f80b8b2c6c",
+      "game_count": 556,
+      "download_bytes": 165117,
+      "sha256": "6b4711f80b8b2c6c29f8126056dc9545e85b397fa97e0b23a1ed387d0b19beae"
+    },
+    {
+      "system": "pcenginecd",
+      "title": "Pcenginecd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pcenginecd.jsonl",
+      "version": "dcc876a09c75ad5c",
+      "game_count": 542,
+      "download_bytes": 171974,
+      "sha256": "dcc876a09c75ad5c186a4604dd8b8a2c5e7dbf940cd24f39511ba7b95fd1e2f9"
+    },
+    {
+      "system": "pet",
+      "title": "Pet",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pet.jsonl",
+      "version": "17c0a137440dc61f",
+      "game_count": 15,
+      "download_bytes": 5619,
+      "sha256": "17c0a137440dc61f5009cca2384e7ed1615eb9c25c3c639130f0511bbfc56fde"
+    },
+    {
+      "system": "pico8",
+      "title": "Pico8",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pico8.jsonl",
+      "version": "37e57ebb34739882",
+      "game_count": 1035,
+      "download_bytes": 251506,
+      "sha256": "37e57ebb34739882f685d9bcca1cfcd47203193ba4e3ae05395756be80acd9c6"
+    },
+    {
+      "system": "pokemini",
+      "title": "Pokemini",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pokemini.jsonl",
+      "version": "aafd357c988a0a26",
+      "game_count": 43,
+      "download_bytes": 13115,
+      "sha256": "aafd357c988a0a26fecd4dfaa334a9db3da73435b8291e80b65abd5b80366164"
+    },
+    {
+      "system": "ps2",
+      "title": "PlayStation 2",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/ps2.jsonl",
+      "version": "69accd6f4e4fe56d",
+      "game_count": 18212,
+      "download_bytes": 5768874,
+      "sha256": "69accd6f4e4fe56d2bc18a0a4010cfeda2ee72c84f3850c98cd4c5ab1a428478"
+    },
+    {
+      "system": "ps3",
+      "title": "Ps3",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/ps3.jsonl",
+      "version": "94e74f82be344937",
+      "game_count": 1543,
+      "download_bytes": 437030,
+      "sha256": "94e74f82be34493725c0921a95fb84000987ed6b756e2964a517a5ac23a3a14c"
+    },
+    {
+      "system": "psp",
+      "title": "PlayStation Portable",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/psp.jsonl",
+      "version": "124c626baf333d49",
+      "game_count": 4013,
+      "download_bytes": 1676048,
+      "sha256": "124c626baf333d49ceab51b308ca7a094b7b16ed7af723b32c194034c041b636"
+    },
+    {
+      "system": "psvita",
+      "title": "Psvita",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/psvita.jsonl",
+      "version": "ad0f05483e964d6c",
+      "game_count": 1022,
+      "download_bytes": 1035860,
+      "sha256": "ad0f05483e964d6c89fd5037777d1a28ce88e0218392e9cd20a69a5845917904"
+    },
+    {
+      "system": "psx",
+      "title": "PlayStation",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/psx.jsonl",
+      "version": "3e32fd1c16d62520",
+      "game_count": 18243,
+      "download_bytes": 5905729,
+      "sha256": "3e32fd1c16d62520aaea5463d1ac725fd341601ff7c34907fb2bdc29e506ce37"
+    },
+    {
+      "system": "pv1000",
+      "title": "Pv1000",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/pv1000.jsonl",
+      "version": "012b6f8333587494",
+      "game_count": 14,
+      "download_bytes": 20335,
+      "sha256": "012b6f8333587494ac3ee9aba14f6186faa29d1a4d2b5a9abbf0f23d44612bd9"
+    },
+    {
+      "system": "revistas",
+      "title": "Revistas",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/revistas.jsonl",
+      "version": "1bfe344f69da265e",
+      "game_count": 0,
+      "download_bytes": 84440,
+      "sha256": "1bfe344f69da265e983b4f2c26746a0c246b8bee33f5596a269a71230c75498a"
+    },
+    {
+      "system": "samcoupe",
+      "title": "Samcoupe",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/samcoupe.jsonl",
+      "version": "4700b43eb3036506",
+      "game_count": 0,
+      "download_bytes": 4770,
+      "sha256": "4700b43eb3036506fbd2f5f0b7bf770da9475c3acaf42773f99d354b56089950"
+    },
+    {
+      "system": "satellaview",
+      "title": "Satellaview",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/satellaview.jsonl",
+      "version": "96a5b61ce75e05d1",
+      "game_count": 244,
+      "download_bytes": 74151,
+      "sha256": "96a5b61ce75e05d1798c425dc76353425a0d78e84406c8348cd40249416ea73e"
+    },
+    {
+      "system": "saturn",
+      "title": "Saturn",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/saturn.jsonl",
+      "version": "081121cb42b4a937",
+      "game_count": 2400,
+      "download_bytes": 795729,
+      "sha256": "081121cb42b4a9374a60118154f0d9ccf50706a462c666ccb4ff74efc28305a1"
+    },
+    {
+      "system": "scummvm",
+      "title": "Scummvm",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/scummvm.jsonl",
+      "version": "b4125263938558b6",
+      "game_count": 1200,
+      "download_bytes": 473988,
+      "sha256": "b4125263938558b6e748313e7894afe91cfb2722454d2d6ff170a70e88f5d4a1"
+    },
+    {
+      "system": "scv",
+      "title": "Scv",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/scv.jsonl",
+      "version": "bd550f61e686cfc5",
+      "game_count": 33,
+      "download_bytes": 8884,
+      "sha256": "bd550f61e686cfc5e9f13608932f0a88ef2b00d3eec3f205a43d2e051ce11310"
+    },
+    {
+      "system": "sega32x",
+      "title": "Sega32X",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/sega32x.jsonl",
+      "version": "c5e8d0749fcba209",
+      "game_count": 210,
+      "download_bytes": 74107,
+      "sha256": "c5e8d0749fcba209e8c7589b02e0f1e62ec0f443ab38597a3dcaf8065b219aa6"
+    },
+    {
+      "system": "segacd",
+      "title": "Segacd",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/segacd.jsonl",
+      "version": "5ca0f5e953731dcb",
+      "game_count": 505,
+      "download_bytes": 158667,
+      "sha256": "5ca0f5e953731dcb7623306a025b0fdf5a319d56f13034891f4c2ec931ee9dbc"
+    },
+    {
+      "system": "segastv",
+      "title": "Segastv",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/segastv.jsonl",
+      "version": "322cc80a1783cbe9",
+      "game_count": 101,
+      "download_bytes": 16185,
+      "sha256": "322cc80a1783cbe963229cf606f64bf08cb5b79813d1cf36ab47024ae1321561"
+    },
+    {
+      "system": "snes-msu1",
+      "title": "Snes Msu1",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/snes-msu1.jsonl",
+      "version": "8cf66c0c19b18427",
+      "game_count": 264,
+      "download_bytes": 118897,
+      "sha256": "8cf66c0c19b184277c24f2c954f30d82f0ddb7a2d8673f02b66bdd01e06f0414"
+    },
+    {
+      "system": "snes",
+      "title": "Super Nintendo",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/snes.jsonl",
+      "version": "cd4d3d4fdd239759",
+      "game_count": 4950,
+      "download_bytes": 1654538,
+      "sha256": "cd4d3d4fdd23975922dacf0f53d4af96b49437433aa251e84a55d175ef821d79"
+    },
+    {
+      "system": "spectravideo",
+      "title": "Spectravideo",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/spectravideo.jsonl",
+      "version": "3b658673b1ccc2a9",
+      "game_count": 6,
+      "download_bytes": 1539,
+      "sha256": "3b658673b1ccc2a98ec41cfdda179de3b1cdebbfcf0ac99e819aa798dad1f898"
+    },
+    {
+      "system": "sufami",
+      "title": "Sufami",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/sufami.jsonl",
+      "version": "bd516599db526a88",
+      "game_count": 13,
+      "download_bytes": 4134,
+      "sha256": "bd516599db526a88bef3f6bbc96f0f4a53a04c9a6798d9b81b036f85c439541d"
+    },
+    {
+      "system": "supervision",
+      "title": "Supervision",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/supervision.jsonl",
+      "version": "4c1524bb7a03184d",
+      "game_count": 69,
+      "download_bytes": 17603,
+      "sha256": "4c1524bb7a03184d6e653772d62bcc2871fb796f0cd6d7a30429b6cc4898439d"
+    },
+    {
+      "system": "uzebox",
+      "title": "Uzebox",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/uzebox.jsonl",
+      "version": "972a979bd955badc",
+      "game_count": 41,
+      "download_bytes": 11687,
+      "sha256": "972a979bd955badc7463960988e3efef22312aab8e87c36f6f2f50c1e7c5a690"
+    },
+    {
+      "system": "vc4000",
+      "title": "Vc4000",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/vc4000.jsonl",
+      "version": "50567e5fc8711fc8",
+      "game_count": 57,
+      "download_bytes": 13446,
+      "sha256": "50567e5fc8711fc882e4bd8aa8732605b65a430ac32521552c4b51b88e01f0da"
+    },
+    {
+      "system": "vectrex",
+      "title": "Vectrex",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/vectrex.jsonl",
+      "version": "4c8987e29b7a7376",
+      "game_count": 58,
+      "download_bytes": 20456,
+      "sha256": "4c8987e29b7a7376335f8929391efc8a5a19a76a7eb2a51e4eec57c2bb50e1ab"
+    },
+    {
+      "system": "vircon32",
+      "title": "Vircon32",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/vircon32.jsonl",
+      "version": "0f2fbe6eed47c070",
+      "game_count": 61,
+      "download_bytes": 13676,
+      "sha256": "0f2fbe6eed47c0702a7cf49fe28a9b12842bd623cb961a6e8ec262c1b7ed9f1f"
+    },
+    {
+      "system": "virtualboy",
+      "title": "Virtualboy",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/virtualboy.jsonl",
+      "version": "609820b72e344f3b",
+      "game_count": 76,
+      "download_bytes": 26166,
+      "sha256": "609820b72e344f3b40a0aaca8739b1d1e6bc4b5192472c7106a99dee7bfec63c"
+    },
+    {
+      "system": "vsmile",
+      "title": "Vsmile",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/vsmile.jsonl",
+      "version": "1a48713ca3012d4c",
+      "game_count": 451,
+      "download_bytes": 149933,
+      "sha256": "1a48713ca3012d4c83fed387f6ea36a46dd2674aae26a202888131e2c77e10ac"
+    },
+    {
+      "system": "wasm4",
+      "title": "Wasm4",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wasm4.jsonl",
+      "version": "eba3c2a22c57cd0b",
+      "game_count": 64,
+      "download_bytes": 18641,
+      "sha256": "eba3c2a22c57cd0bd2c0ef39c32065d32a96222f3d5e18850d552965886b5395"
+    },
+    {
+      "system": "wii",
+      "title": "Wii",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wii.jsonl",
+      "version": "2e759cea7b986e8f",
+      "game_count": 5065,
+      "download_bytes": 1721846,
+      "sha256": "2e759cea7b986e8f7abb0e966c892b06c11538d8f7a197247380698cd8cd319b"
+    },
+    {
+      "system": "wiiu",
+      "title": "Wiiu",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wiiu.jsonl",
+      "version": "13e8bdf787c57b92",
+      "game_count": 1382,
+      "download_bytes": 447814,
+      "sha256": "13e8bdf787c57b92e382a6188768aaa5cca364341a4398f9d5eaeed1eca52b30"
+    },
+    {
+      "system": "wiiware",
+      "title": "Wiiware",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wiiware.jsonl",
+      "version": "87289aa0b5dffde9",
+      "game_count": 1115,
+      "download_bytes": 371081,
+      "sha256": "87289aa0b5dffde95d133202de82baa1c65de45ef4696cf3b1b233cf9bc7af57"
+    },
+    {
+      "system": "windows",
+      "title": "Windows",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/windows.jsonl",
+      "version": "33bdd02e1bb99fb5",
+      "game_count": 0,
+      "download_bytes": 210444,
+      "sha256": "33bdd02e1bb99fb5c78f84cc0027449868070540f8d70785e9147d3354f53753"
+    },
+    {
+      "system": "wonderswan",
+      "title": "Wonderswan",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wonderswan.jsonl",
+      "version": "01109941655cd6f1",
+      "game_count": 127,
+      "download_bytes": 35907,
+      "sha256": "01109941655cd6f1112cc9c346c4bed0f865ef10b11149ca077b38ae4bfc3579"
+    },
+    {
+      "system": "wonderswanc",
+      "title": "Wonderswanc",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wonderswanc.jsonl",
+      "version": "c0a4f9eb3e2c853a",
+      "game_count": 97,
+      "download_bytes": 28212,
+      "sha256": "c0a4f9eb3e2c853a46fc89b3aa2d66d82c7ab80d9a64a81fcbc1f788d463d4e3"
+    },
+    {
+      "system": "wonderswancolor",
+      "title": "Wonderswancolor",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/wonderswancolor.jsonl",
+      "version": "c0a4f9eb3e2c853a",
+      "game_count": 97,
+      "download_bytes": 28212,
+      "sha256": "c0a4f9eb3e2c853a46fc89b3aa2d66d82c7ab80d9a64a81fcbc1f788d463d4e3"
+    },
+    {
+      "system": "x68000",
+      "title": "X68000",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/x68000.jsonl",
+      "version": "fbaba0fc02c60667",
+      "game_count": 1194,
+      "download_bytes": 328754,
+      "sha256": "fbaba0fc02c6066762131a1ed1c692dccca438bdf001a5d1a43f20c787041dde"
+    },
+    {
+      "system": "xbox",
+      "title": "Xbox",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/xbox.jsonl",
+      "version": "3044688a8cbffa81",
+      "game_count": 2694,
+      "download_bytes": 818458,
+      "sha256": "3044688a8cbffa8107b3eacd5ebe319e8ff36a5be3773a45568d6e523f657392"
+    },
+    {
+      "system": "xbox360",
+      "title": "Xbox360",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/xbox360.jsonl",
+      "version": "3576bab7140b7352",
+      "game_count": 3582,
+      "download_bytes": 1175588,
+      "sha256": "3576bab7140b73524e7b62c1fa322edfdd9758e281d9c42a6161ded1e9c1c4da"
+    },
+    {
+      "system": "xegs",
+      "title": "Xegs",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/xegs.jsonl",
+      "version": "2748e385fd472e23",
+      "game_count": 35,
+      "download_bytes": 5680,
+      "sha256": "2748e385fd472e2311941972fb260f72dccd3588ebd3032bf7abca08d3615087"
+    },
+    {
+      "system": "zmachine",
+      "title": "Zmachine",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/zmachine.jsonl",
+      "version": "c39d36b53d9b6543",
+      "game_count": 151,
+      "download_bytes": 64067,
+      "sha256": "c39d36b53d9b65431f90d96d7fca83f5e73c191658ae73409c34aa8aa3777665"
+    },
+    {
+      "system": "zx81",
+      "title": "Zx81",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/zx81.jsonl",
+      "version": "caffecac20a38d60",
+      "game_count": 1245,
+      "download_bytes": 346575,
+      "sha256": "caffecac20a38d606932316404467d7aaee4bb84cf51df1ad96049da3b55b1b1"
+    },
+    {
+      "system": "zxspectrum",
+      "title": "Zxspectrum",
+      "url": "https://raw.githubusercontent.com/devilxcv2/emulationstation-rom-catalogs/main/catalogs/zxspectrum.jsonl",
+      "version": "d54670d16a927620",
+      "game_count": 20530,
+      "download_bytes": 7324019,
+      "sha256": "d54670d16a927620f445c9aba65d538be622be3314694c3b6d2b78f9f3f9bf8d"
+    }
+  ]
+}
